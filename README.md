@@ -1,5 +1,4 @@
 # Markov Colorful Fireworks
----
 
 ## Description
 This is a markov fireworks project where we will use markov chains to change the colors of the fireworks! The particles will leave a mark behind to represent the pollution that fireworks can leave in the real world. This project is made with HTML, CSS, and Javascript. 
