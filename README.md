@@ -1,6 +1,13 @@
 # Markov Colorful Fireworks
 ---
 
+## Description
+This is a markov fireworks project where we will use markov chains to change the colors of the fireworks! The particles will leave a mark behind to represent the pollution that fireworks can leave in the real world. This project is made with HTML, CSS, and Javascript. 
+
+## How to run
+Via Terminal: go to source folder directory -> open index.html (possibly might not work if you are on Bowdoin Server
+Via Live Server: Download live server extension on VSCODE -> Right click index.html and open with live server
+
 ## About 
 I chose to create this project because the Mid-Autumn festival just passed a few days ago (September 10). The Mid-Autumn Festival, also know as the Moon Festival, is a traditional event 
 celebrated by Chinese people. On this day, I usually celebrate with my family by creating lanterns, and eating moon cakes. Since I am not at home to celebrate with my family, I thought
