@@ -19,14 +19,12 @@ for this project.
 I believe my system is creative because the system I created can give the users a glimpse of how much pollution fireworks can cause. When the firework explodes, it leaves a particle marks on the canvas for a few seconds(representing pollution). On my website, you can input the amount of fireworks you want to generate at once. We can see that as we generate more fireworks, say 5 vs 55, there will be more particle marks on the canvas. I have applied combinatorial techniques to create this idea. My firework system is inspired by another firework system (Credits to MinzCode). I also applied other techniques to make the system more creative such as adding input boxes to increase the fireworks generated. 
 
 Credits:
-    {
-        Classmate: Bjorn Ludwig,
-        Sources: [MinzCode, https://codepen.io/MinzCode/pen/KKNKVGM],
-                 [Frankslaboratory, https://www.youtube.com/c/Frankslaboratory],
-                 [EaseInCirc, https://easings.net/#easeInCirc],
-                 []
-        
+- Bjorn Ludwig
+- https://codepen.io/MinzCode/pen/KKNKVGM
+- https://www.youtube.com/c/Frankslaboratory
+- https://easings.net/#easeInCirc
+- https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
 
-    }
+
 
 
