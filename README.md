@@ -23,7 +23,7 @@ Credits:
 - https://codepen.io/MinzCode/pen/KKNKVGM
 - https://www.youtube.com/c/Frankslaboratory
 - https://easings.net/#easeInCirc
-- https://stackoverflow.com/questions/4959975 generate-random-number-between-two-numbers-in-javascript
+- https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
 
 
 
